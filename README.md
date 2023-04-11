@@ -21,3 +21,11 @@ Second Algorithm:
 Let n = number of words in the string, i = number of indexes found to be replaced in the string
 The time complexity for insertion in a doubly linked list is O(1) and there are i indexes to be replaced which means the effective time complexity for this particular algorithm is O(i).
 Asymptotic runtime - O(i)
+
+**Algorithm Graphs:-**
+
+First Algorithm:
+As you can see in the graphs, the first one shows the real values generated at differeant input sizes for the tweets. The dataset that we chose contains 925000 tweets so the maximum has been set to that. If we compare our graphs values to the asymptotic runtime that we got for the first algorith of O(m\*n), we can see that the values are consistent with that.
+
+Second Algorithm: 
+
