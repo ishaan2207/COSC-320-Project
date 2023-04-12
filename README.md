@@ -26,7 +26,7 @@ Asymptotic runtime - O(i)
 
 First Algorithm:
 As you can see in the graphs, the first one shows the real values generated at differeant input sizes for the tweets. The dataset that we chose contains 925000 tweets so the maximum has been set to that. If we compare our graphs values to the asymptotic runtime that we got for the first algorith of O(m\*n), we can see that the values are consistent with that.
-![image1](image (1).png)
+![image1](graph1.png)
 
 Second Algorithm: 
 In the second algorithm, it is much of the same as we have again plotted the real values generated for different input sizes of the tweets. The dataset contains over 100000 tweets and hence the maximum has again been set to that. Comparing our graphs to the asymptotic runtime that we have for the second algorithm, we can see that it is also O(i) which is consistent with what we had predicted.
