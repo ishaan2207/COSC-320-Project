@@ -31,3 +31,29 @@ As you can see in the graphs, the first one shows the real values generated at d
 Second Algorithm: 
 In the second algorithm, it is much of the same as we have again plotted the real values generated for different input sizes of the tweets. The dataset contains over 100000 tweets and hence the maximum has again been set to that. Comparing our graphs to the asymptotic runtime that we have for the second algorithm, we can see that it is also O(i) which is consistent with what we had predicted.
 ![image2](image.png)
+
+**Task Separation:-**
+
+Milestone 1:
+Problem Formulation - Nikhil, Ishaan, Manroop
+Pseudocode - Nikhil
+Algorithm Analysis - Ishaan
+Unexpected Cases - Manroop
+
+Milestone 2:
+Problem Formulation - Nikhil, Ishaan, Manroop
+Algorithm Analysis - Nikhil, Ishaan, Manroop
+Data Structure - Manroop
+Unexpected Cases - Nikhil
+Pseudocode - Ishaan
+
+Milestone 3: 
+Datasets - Nikhil, Manroop
+Implementation - Nikhil, Ishaan, Manroop
+Results - Nikhil
+Unexpected Cases - Ishaan
+
+Milestone 4:
+Code - Nikhil
+Report - Ishaan
+Video Presentation - Manroop
