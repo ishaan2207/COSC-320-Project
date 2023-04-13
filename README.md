@@ -32,6 +32,12 @@ Second Algorithm:
 In the second algorithm, it is much of the same as we have again plotted the real values generated for different input sizes of the tweets. The dataset contains over 100000 tweets and hence the maximum has again been set to that. Comparing our graphs to the asymptotic runtime that we have for the second algorithm, we can see that it is also O(i) which is consistent with what we had predicted.
 ![image2](image.png)
 
+**Dataset Used:-**
+https://www.kaggle.com/datasets/tariqsays/sentiment-dataset-with-1-million-tweets
+
+**Video Presentation:-**
+https://youtu.be/OZ2kBXunjAE
+
 **Task Separation:-**
 
 Milestone 1:
